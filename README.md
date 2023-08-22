@@ -4,7 +4,7 @@
 
 # Usage:
 
-# action_levels_barplot_fun: Creates actionability barplot displaying the highest level of evidence for each sample across all cancer types. Levels 1
+action_levels_barplot_fun: Creates actionability barplot displaying the highest level of evidence for each sample across all cancer types. Levels 1
 
 action_levels_barplot_fun(cna_df, mut_df, fus_df, clin_df, data_freeze,
                           group_col = "ONCOTREE_CODE",
